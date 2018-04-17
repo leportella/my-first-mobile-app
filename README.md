@@ -1,23 +1,9 @@
 # My First Mobile App
 
-Made with the help of Learning React Native from O'Reilly
+This is my first attempt on building a React Native app.
 
+The folder `first-project` contains the app made with the code available on 
+Learning React Native from O'Reilly.
 
-Installing the create-react-native-app globally
-
-```
-$ npm install -g create-react-native-app
-```
-
-And creating my first app:
-
-```
-$ create-react-native-app first-project
-```
-
-To launch the application
-
-```
-$ cd first-project
-$ npm start
-```
+The folter `a-got-project` is my own app made with [this](https://anapioficeandfire.com/) API 
+of Game of Thrones. This was made to test my skills and not just "copy and paste" code. 
