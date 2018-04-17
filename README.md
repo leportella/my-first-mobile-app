@@ -14,3 +14,10 @@ And creating my first app:
 ```
 $ create-react-native-app first-project
 ```
+
+To launch the application
+
+```
+$ cd first-project
+$ npm start
+```
